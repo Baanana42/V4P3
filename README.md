@@ -13,7 +13,7 @@ Vape v4.04 and Vape Lite Cracked By Kangaroo Team, Server Emulated by Ape Team, 
 # Compatibilities 
 This crack is unfinished and hence is only compatible with-
 1) Feather Client (1.8.9)
-2) Feather Client (1.12.2) [Not tested with Vape Lite]
+2) Feather Client (1.12.2) [Not tested with Vape v4]
 3) Forge (1.8.9)
 4) Forge (1.12.2) [Not tested with Vape v4]
 
@@ -25,6 +25,8 @@ This crack is unfinished and hence is only compatible with-
 1) Make sure you have [Python 3.12](https://www.python.org/downloads/release/python-3120/)
 2) Make sure you ran "1) Python Numpy Installer.bat" first and then "2) Python PIPs Installer.bat"
 3) If it is still not working, Search "Edit the system environment variables" in start and open it, press "Environment Variables" and under System Variables double click on "Path" and click on new then paste "C:\Users\USER NAME\AppData\Local\Programs\Python\Python312\scripts" (without the quotes and replace USER NAME with your username).
+4) Make sure your antivirus hasn't removed any files.
+
 # Safe?
 Yes it is safe and tested by me, but as it is unfinished it maybe buggy at times.
 
