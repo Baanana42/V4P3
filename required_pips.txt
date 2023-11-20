@@ -1,0 +1,6 @@
+numpy
+websockets
+tqdm
+pandas
+requests
+pyOpenSSL
