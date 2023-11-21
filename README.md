@@ -11,11 +11,12 @@ Vape v4.04 and Vape Lite Cracked By Kangaroo Team, Server Emulated by Ape Team, 
 7) Drag the "Vape_V4.exe" or "Vape_Lite.exe" into "Kangaroo Patcher.exe" and enjoy!
 
 # Compatibilities 
-This crack is unfinished and hence is only compatible with-
+This crack's mappings are bad, is only compatible with-
 1) Feather Client (1.8.9)
 2) Feather Client (1.12.2) [Not tested with Vape v4]
 3) Forge (1.8.9)
 4) Forge (1.12.2) [Not tested with Vape v4]
+5) Forge (1.7.10)
 
 # Incompatibilities
 1) Doesn't Work with "Essential" or "Patcher" mods.
